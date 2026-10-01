@@ -1,0 +1,12 @@
+Here are some random dummy sentences you can use for testing:
+
+1. The weather is pleasant today.
+2. Machine learning helps computers learn from data.
+3. I enjoy learning new programming concepts.
+4. The cat is sleeping on the sofa.
+5. Data science is an interesting field.
+6. Python is easy to learn and use.
+7. The students are working on a project.
+8. Artificial intelligence is changing many industries.
+9. The sun rises in the east.
+10. This is a simple dummy sentence for testing.
